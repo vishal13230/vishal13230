@@ -11,7 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of cricket and I often play in local leagues.
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!--
 Hi there, I am Vishal! Here's a bit more about me:
