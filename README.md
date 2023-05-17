@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-
-:
-
 👋 Hi, I'm Vishal! I'm a data analyst with expertise in mortgage data analysis, risk modeling, and underwriting. Here are a few things to know about me:
 
-🔭 I'm currently working on creating automated reports and dashboards using Power BI to improve decision-making for my team.
-🌱 I'm currently learning more about machine learning and deep learning techniques to enhance my data analysis skills.
-👯 I'm looking to collaborate on data-driven projects to solve real-world problems.
-🤔 I'm looking for help with implementing advanced statistical techniques in Python.
-💬 Ask me about anything related to mortgage data analysis, regression analysis, time series modeling, or credit risk analysis.
-📫 You can reach me at vishalrajt2011@gmail.com or connect with me on LinkedIn.
-😄 Pronouns: He/Him
-⚡ Fun fact: I'm a huge fan of cricket and I often play in local leagues.
+- 🔭 I'm currently working on creating automated reports and dashboards using Power BI to improve decision-making for my team.
+- 🌱 I'm currently learning more about machine learning and deep learning techniques to enhance my data analysis skills.
+- 👯 I'm looking to collaborate on data-driven projects to solve real-world problems.
+- 🤔 I'm looking for help with implementing advanced statistical techniques in Python.
+- 💬 Ask me about anything related to mortgage data analysis, regression analysis, time series modeling, or credit risk analysis.
+- 📫 You can reach me at vishal13230@gmail.com or connect with me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a huge fan of cricket and I often play in local leagues.
 
 <!--
 Hi there, I am Vishal! Here's a bit more about me:
