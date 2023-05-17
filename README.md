@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi, I'm Vishal! I'm a data analyst with expertise in mortgage data analysis, risk modeling, and underwriting. Here are a few things to know about me:
+👋 I'm Vishal! I'm a business analyst with expertise in finance, credit card, digital marketing, mortgage data analysis, risk modeling, underwriting, process automation, nlp and deep leaning. Here are a few things to know about me:
 
 - 🔭 I'm currently working on creating automated reports and dashboards using Power BI to improve decision-making for my team.
 - 🌱 I'm currently learning more about machine learning and deep learning techniques to enhance my data analysis skills.
