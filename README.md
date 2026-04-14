@@ -117,7 +117,7 @@ I am actively building toward Senior AI Engineer / Quantitative AI roles focused
 ## 📫 Connect With Me
 
 📧 vishal13230@gmail.com  
-💼 LinkedIn: (Add your link here)  
+💼 LinkedIn: https://www.linkedin.com/in/vishalraj13230  
 💻 GitHub: https://github.com/vishal13230  
 
 ---
