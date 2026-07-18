@@ -1,15 +1,15 @@
 <h1 align="center">Vishal Raj</h1>
-<h3 align="center">AI Engineer | Quantitative Risk Specialist | Financial ML Architect</h3>
+<h3 align="center">AI Engineer | FDE | Financial ML Architect</h3>
 
 <p align="center">
-Building AI Systems for Financial Intelligence • Credit Risk Modeling • NLP & LLM Engineering • Quantitative Analytics
+Building AI Systems for Financial Intelligence • Credit Risk Modeling • NLP & LLM Engineering • FDE
 </p>
 
 ---
 
 ## 🚀 About Me
 
-AI Engineer with a Master’s in Quantitative Finance and strong expertise in financial machine learning, risk modeling, and intelligent automation.
+FDE with a Master’s in Quantitative Finance and strong expertise in financial machine learning, risk modeling, and intelligent automation.
 
 I design and deploy scalable AI systems for credit risk, document intelligence, forecasting, and large-scale financial analytics. My work combines deep quantitative foundations with modern AI engineering practices.
 
